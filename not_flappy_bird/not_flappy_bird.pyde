@@ -3,7 +3,7 @@ yspeed = 0
 PipeX1= 400
 PipeX2 = 600
 PipeX3 = 800
-
+#this is a test for git stuff
 opening1 = random.randint(100, 400)
 opening2 = random.randint(100, 400)
 opening3 = random.randint(100, 400)
